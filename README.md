@@ -1,125 +1,76 @@
 <div align="center">
-  <!-- INTERFACE HEADER -->
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="left" width="20%">
-        <img src="https://img.shields.io/badge/SYS-ONLINE-success?style=for-the-badge&logo=probot&logoColor=white&labelColor=111" alt="System Online">
-      </td>
-      <td align="center" width="60%">
-         <h1 style="margin: 0; font-size: 3em; letter-spacing: 0.1em;">MUHAMMAD ADAM</h1>
-         <samp style="font-size: 1.1em; color: #D10000;">FULLE STACK ENGINEER &nbsp; // &nbsp; AI ARCHITECT</samp>
-      </td>
-      <td align="right" width="20%">
-        <img src="https://img.shields.io/badge/LOC-PK-111?style=for-the-badge&labelColor=333" alt="Islamabad">
-      </td>
-    </tr>
-  </table>
 
-  <br />
+# MUHAMMAD ADAM
 
-  <!-- MAIN DASHBOARD GRID -->
-  <table width="100%" border="0">
-    <tr>
-      <!-- LEFT COLUMN : IDENTITY & CONTACT -->
-      <td width="35%" valign="top">
-        <h3 align="left"><code>/// IDENTITY_CORE</code></h3>
-        <p align="left">
-          Architecting the future of <b>Autonomous Systems</b>. I specialize in replacing legacy workflows with <b>Agentic AI</b> and high-performance <b>Cloud Native</b> solutions.
-        </p>
-        <br />
-        <h3 align="left"><code>/// TRANSMISSION</code></h3>
-        <p align="left">
-          <a href="https://adam-dev-ai-architect.vercel.app/">
-            <img src="https://img.shields.io/badge/PORTFOLIO-INIT_LINK-white?style=for-the-badge&logo=vercel&logoColor=black&labelColor=white" width="100%" />
-          </a>
-          <br />
-          <a href="mailto:chaudhrayadam@gmail.com">
-            <img src="https://img.shields.io/badge/EMAIL-SEND_PACKET-D10000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222" width="100%" />
-          </a>
-        </p>
-      </td>
+<sub>Full Stack Engineer • AI Architect • System Designer</sub>
 
-      <!-- RIGHT COLUMN : TECHNICAL ARSENAL -->
-      <td width="65%" valign="top">
-        <h3 align="left"><code>/// TECHNICAL_ARSENAL</code></h3>
-        <table width="100%">
-            <tr>
-              <td width="20%"><b>AGENTIC</b></td>
-              <td>
-                <img src="https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai" />
-                <img src="https://img.shields.io/badge/LiveKit-black?style=flat-square&logo=webrtc" />
-                <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=python" />
-                <img src="https://img.shields.io/badge/VAPI-black?style=flat-square&logo=v" />
-              </td>
-            </tr>
-            <tr>
-              <td width="20%"><b>CORE</b></td>
-              <td>
-                <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" />
-                <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
-                <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" />
-                <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss" />
-              </td>
-            </tr>
-            <tr>
-              <td width="20%"><b>BACKEND</b></td>
-              <td>
-                <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
-                <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi" />
-                <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=django" />
-                <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql" />
-              </td>
-            </tr>
-             <tr>
-              <td width="20%"><b>INFRA</b></td>
-              <td>
-                 <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
-                 <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis" />
-                 <img src="https://img.shields.io/badge/Fly.io-black?style=flat-square&logo=fly.io" />
-              </td>
-            </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+<br />
 
-  <!-- PROJECTS SECTION (Full Width) -->
-  <table width="100%">
-    <tr>
-      <td colspan="2">
-        <h3 align="left"><code>/// SELECTED_WORKS</code></h3>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-           <b>PRJ-01 : OUIIMI Marketplace</b>
-           <br /><br />
-           Production-grade Service Marketplace.
-           <br />
-           <code>Next.js</code> <code>MongoDB</code> <code>Stripe Connect</code>
-           <br /><br />
-           <img src="https://img.shields.io/badge/STATUS-DEPLOYED-000?style=flat-square&labelColor=00aa00" />
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-           <b>PRJ-02 : GoCreation AI</b>
-           <br /><br />
-           Automated Legal Agent Workflow.
-           <br />
-           <code>Python</code> <code>FastAPI</code> <code>LangGraph</code>
-           <br /><br />
-           <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000?style=flat-square&labelColor=0077ff" />
-        </div>
-      </td>
-    </tr>
-  </table>
+[![Portfolio](https://img.shields.io/badge/→_VIEW_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adam-dev-ai-architect.vercel.app/)
+[![Email](https://img.shields.io/badge/→_CONTACT-D10000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhrayadam@gmail.com)
+[![GitHub](https://img.shields.io/badge/→_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdamChoudary)
 
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamChoudary&show_icons=true&theme=transparent&hide_border=true&title_color=D10000&text_color=555&icon_color=D10000" height="140" alt="stats" />
-  
-  <br />
-  <code>[ EOF ]</code>
+</div>
+
+<br />
+
+## About
+
+Specialist in **Agentic AI Systems** and **Cloud-Native Architectures**. I architect production-grade autonomous agents and scalable full-stack applications that replace legacy workflows with intelligent, event-driven systems.
+
+Currently engineering **Voice AI Agents** and **Real-time Marketplaces** using modern TypeScript/Python stacks.
+
+<br />
+
+## Tech Stack
+
+**AI & Agents**  
+`OpenAI Agents SDK` • `LiveKit Voice Agents` • `LangChain` • `LangGraph` • `VAPI`
+
+**Frontend**  
+`Next.js 15` • `React 18` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+
+**Backend**  
+`Python` • `FastAPI` • `Django` • `PostgreSQL` • `MongoDB` • `Redis`
+
+**Infrastructure**  
+`Docker` • `Nginx` • `Fly.io` • `Vercel` • `CI/CD Workflows`
+
+<br />
+
+## Featured Work
+
+### [Ouiimi Marketplace](https://ouiimi.com)
+Fair-revenue service marketplace with real-time multi-staff scheduling and Stripe Connect split-payments.  
+`Next.js 14` `MongoDB` `Stripe`
+
+### [GoCreation AI](https://gocreation.ma)
+Automated legal workflow platform that generates compliant company formation documents using agentic AI.  
+`Next.js 15` `FastAPI` `LangGraph`
+
+### Jordan Voice Agent
+Low-latency conversational AI system handling 50+ concurrent calls with natural interruptible dialogue.  
+`LiveKit` `OpenAI Realtime API` `Python`
+
+<br />
+
+## Experience
+
+**Full Stack Engineer** @ Aptive Mind *(2025 - Present)*  
+Architecting enterprise AI solutions with Python/FastAPI backends and Next.js frontends.
+
+**Full Stack Engineer** @ Auroxa Tech *(2025)*  
+Built production voice agents and deployed containerized infrastructure with Docker/Redis.
+
+**Frontend Developer** @ Dot Escapist *(2024-2025)*  
+Developed full-stack applications with Django backends and Next.js interfaces.
+
+<br />
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AdamChoudary&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D10000&icon_color=D10000&text_color=c9d1d9)
+
+<sub>Islamabad, Pakistan • UTC+5</sub>
+
 </div>
