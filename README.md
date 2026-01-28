@@ -43,9 +43,3 @@
     <td width="5%"></td>
   </tr>
 </table>
-
-<br />
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=120&section=footer" />
-
-</div>
